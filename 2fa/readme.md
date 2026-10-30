@@ -7,7 +7,7 @@ tag: 2fa
 ### 1.1 直接封装版本使用
 `$ .\2fa.exe [image-path] `
 
-1.2 从代码使用
+### 1.2 从代码使用
 ` $ go run . [image-path] `
 
 
